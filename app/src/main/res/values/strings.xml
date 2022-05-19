@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-three</string>
+    <string name="main">首页</string>
+    <string name="dynamic">动态</string>
+    <string name="message">消息</string>
+    <string name="person">我</string>
+</resources>
